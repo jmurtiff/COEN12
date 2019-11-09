@@ -1,0 +1,16 @@
+
+Big O Complexity for all functions in Application #3:
+
+LIST* createList: O(1)
+
+void searchAge: O(n)
+
+void searchID: O(n)
+
+void destroyList: O(n)
+
+void addElement: O(n)
+
+void removeElement: O(n)
+
+int maxAgeGap: O(1)

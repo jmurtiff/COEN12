@@ -1,0 +1,12 @@
+
+Big O Complexity for all functions in Application #2:
+
+SET* createSet: O(m)
+
+int searchID: O(n) with O(1) being expected
+
+void destroySet: O(n)
+
+void addElement: O(n) with O(1) being expected
+
+void removeElement: O(n) with O(1) being expected
